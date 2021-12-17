@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">This is a program to help you manage your work/school tasks<br>
-Made (or will be made) with TS (typescript) and NodeJS</p>
+Made (or will be made) with TS (typescript) NodeJS, and ElectronJS</p>
 
 
 
